@@ -1,6 +1,6 @@
 # Homelab Notes
 
-A personal reference for my home network and TrueNAS server: how it was built, what broke, how I fixed it, and what I plan to do next. I'm publishing it in case the process helps someone else, and so future-me can remember why I made each decision.
+A personal reference, and Ai summary, for my home network and TrueNAS server: how it was built, what broke, how I fixed it, and what I plan to do next. I'm publishing it in case the process helps someone else, and so future-me can remember why I made each decision.
 
 Everything identifying (usernames, key names, IP addresses, folder names, volume labels) has been replaced with placeholders such as `<NAS_IP>` or `<source-dir>`.
 
